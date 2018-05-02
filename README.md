@@ -1,6 +1,7 @@
 # Chance
 
 [![Chance Logo](http://chancejs.com/logo.png)](http://chancejs.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frivy%2Fjs.chance.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frivy%2Fjs.chance?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/chancejs/chancejs.svg?branch=develop)](https://travis-ci.org/chancejs/chancejs) [![GitHub license](https://img.shields.io/github/license/chancejs/chancejs.svg)](https://github.com/chancejs/chancejs) [![GitHub stars](https://img.shields.io/github/stars/chancejs/chancejs.svg)](https://github.com/chancejs/chancejs) [![npm](https://img.shields.io/npm/dm/chance.svg)](https://npmjs.com/package/chance) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/chance/badge?style=rounded)](https://www.jsdelivr.com/package/npm/chance) [![npm](https://img.shields.io/npm/v/chance.svg)](https://npmjs.com/package/chance) [![Coverage Status](https://coveralls.io/repos/chancejs/chancejs/badge.svg?branch=master)](https://coveralls.io/r/chancejs/chancejs?branch=master) [![awesomeness](https://img.shields.io/badge/awesomeness-maximum-red.svg)](https://github.com/chancejs/chancejs)
 
@@ -223,3 +224,7 @@ This project is licensed under the [MIT License](http://en.wikipedia.org/wiki/MI
 
 Proudly written in Washington, D.C.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frivy%2Fjs.chance.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frivy%2Fjs.chance?ref=badge_large)
